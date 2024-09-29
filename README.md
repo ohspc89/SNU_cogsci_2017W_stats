@@ -1,1 +1,1 @@
-# ohspc89.github.io
+# SNU Cogsci Winter 2017 Basic Statistics Study Group
